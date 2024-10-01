@@ -21,7 +21,7 @@ class Person {
 };
 
 int main(){
-  Person p1("Kalkur",27);
+  Person p1("shetty",27);
   p1.print_info();
   return 0;
 }
