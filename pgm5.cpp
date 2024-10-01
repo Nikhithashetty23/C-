@@ -33,8 +33,8 @@ class Student : public Person{
 };
 
 int main(){
-  Person p1("Dasai",27);
-  Person p2("Kunikida",28);
+  Person p1("manu",27);
+  Person p2("shanu",28);
   p1.print_info();
   p2.print_info();
   
